@@ -1,0 +1,1 @@
+{"name":"Local: Coin_Piles","url":"d:\\My storage\\Desktop\\Code\\CSES\\Introductory_problem\\Coin_Piles.cpp","tests":[{"id":1702885460627,"input":"3\n2 1\n2 2\n3 3","output":"YES\nNO\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\My storage\\Desktop\\Code\\CSES\\Introductory_problem\\Coin_Piles.cpp","group":"local","local":true}
